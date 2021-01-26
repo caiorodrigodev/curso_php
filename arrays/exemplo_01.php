@@ -1,6 +1,6 @@
 <?php
 
-$minas = array("Isabella", "Lorrayne", "Dayane", "Quézia", "Lidia", "Natali", "Julia", "Ana Cláudia", "Anna Clara", "Bárbara", "Krupka", "Luiza", "Fernanda");
+$minas = array("Bella", "Lorrayne", "Dayane", "Quézia", "Lidia", "Naty", "Julia", "Aninha", "Anna Clara", "Bárbara", "Krupka", "Lully", "Japa", "Amanda", "Stella");
 
 print_r($minas[9]);
 
