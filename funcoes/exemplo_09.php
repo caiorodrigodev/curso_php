@@ -52,6 +52,9 @@
                                     'subordinados'=> array(
                                         array(
                                             'nome_cargo'=>'Estagiário'
+                                        ),
+                                        array(
+                                            'nome_cargo'=>'Trainee'
                                         )
                                     )
                                 )
